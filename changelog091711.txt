@@ -1,0 +1,14 @@
+091711
+Finally proofread the Sand romance.
+Fixed condition checks in the chess game.
+
+110409
+Fixed LT8
+Fixed 13_cutscene9 trigger that was breaking Cas' romance... again
+Deleted duplicated file in Casavir folder that was causing screwy ending, 3430_cs_enter
+File 3430_cs_enter moved from Bishop/dlg to Shared/casavir-bishop
+File 21_zhjaeve_in moved from Bishop/dlg to Shared/casavir-bishop
+Fixed 7 typos
+Fixed repeating LT10
+Attempted yet another fix on 21_bevil. Let's see how this one works out.
+Compiled comprehensive resource list for Casavir romance
